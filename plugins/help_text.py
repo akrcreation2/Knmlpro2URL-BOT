@@ -46,7 +46,7 @@ async def start(bot, update):
             [
                 [
                     InlineKeyboardButton(
-                        "Fork Repo ⚡", url="https://github.com/Kaliyuga542/Knmlpro2URL-BOT"
+                        "Fork Repo ⚡", url="https://github.com/akrcreation2/Knmlpro2URL-BOT"
                     ),
                     InlineKeyboardButton("Dev Channel 👨🏻‍💻", url="https://telegram.me/Knmlpro2"),
                 ],
