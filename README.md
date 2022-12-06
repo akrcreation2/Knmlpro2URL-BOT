@@ -46,7 +46,7 @@
 <details><summary>🔥 Deploy To Koyeb 🔥</summary>
 <p>
 <br>                 
-<a target="/blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/Kaliyuga542/Knmlpro2URL-BOT&branch=main&name=knmlpro2urluplod" >
+<a target="/blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/akrcreation2/Knmlpro2URL-BOT&branch=main&name=knmlpro2urluplod" >
   <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="Deploy">
 </a>
 </p>
@@ -54,7 +54,7 @@
 <details><summary>🧡Deploy To Heroku🧡</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/Kaliyuga542/Knmlpro2URL-BOT">
+<a href="https://heroku.com/deploy?template=https://github.com/akrcreation2/Knmlpro2URL-BOT">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
